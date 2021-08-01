@@ -1,0 +1,12 @@
+insert into employees values (null, 1, 'Pedro', 'Rojas', 2000); 
+insert into employees values (null, 2, 'Luciano', 'Alessandri', 2100); 
+insert into employees values (null, 3, 'John', 'Carter', 3050); 
+insert into employees values (null, 4, 'Alejandra', 'Benavides', 2150);
+ insert into employees values (null, 5, 'Moritz', 'Baring', 6000); 
+ insert into employees values (null, 6, 'Thierry', 'Henry', 5900); 
+ insert into employees values (null, 7, 'Sergio', 'Ramos', 6200); 
+ insert into employees values (null, 8, 'Nikoleta', 'Kyriakopulu', 7000);
+ insert into employees values (null, 9, 'Aamir', 'Khan', 2000);
+ insert into employees values (null, 10, 'Takumi', 'Fujiwara', 5000); 
+ insert into employees values (null, 11, 'Heung-min', 'Son', 5100);
+ insert into employees values (null, 12, 'Peter', 'Johnson', 6100);
